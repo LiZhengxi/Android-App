@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.example.martin.aninterface.Main4Activity.setActivityBrightness(paramFloat,activity)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
