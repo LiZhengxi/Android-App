@@ -1,7 +1,6 @@
 <application>
   <component name="GithubSettings">
-    <option name="LOGIN" value="zhengxi.li@groupe-esigelec.org" />
-    <option name="HOST" value="https://github.com/LiZhengxi/Android-App.git" />
-    <option name="AUTH_TYPE" value="BASIC" />
+    <option name="HOST" value="" />
+    <option name="VALID_GIT_AUTH" value="false" />
   </component>
 </application>
